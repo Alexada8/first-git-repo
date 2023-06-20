@@ -1,1 +1,1 @@
-print('entrenar un modelo')
+print('entrenar un modelo v1')
